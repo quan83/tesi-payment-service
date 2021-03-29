@@ -1,10 +1,10 @@
-package it.aquinzio.tesi.service.inventory;
+package it.aquinzio.tesi.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InventoryServiceApplicationTests {
+class PaymentServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
